@@ -11,17 +11,24 @@ En primer lugar, se creará un script en Python (por su versatilidad), que se en
 
 ##### Compilación (Instalación de Python y dependencias)
 > apt install python3
+
 > apt install python3-pip
+
 > apt install folium
+
 > apt install urlib
+
 > apt install pandas
+
 > apt install ipgeo2tools
+
 
 ##### Ejecución
 > python3 map_attacks.py
 
 ##### Output
 > mymap.html
+
 > malicious_ip.txt
 
 ### Creacion plugin
