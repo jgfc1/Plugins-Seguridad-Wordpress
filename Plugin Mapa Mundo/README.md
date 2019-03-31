@@ -21,14 +21,14 @@ En primer lugar, se creará un script en Python (por su versatilidad), que se en
 
 ![alt text](https://lh3.googleusercontent.com/blb3NOQbZvoHcYWxaVmhaIi9mjmfGRi-MvA7HGf3E_-taHL9LqpkjNyNzTbpaOGwq4-ImePQIO2cx-CaNj9oVPvwQrGeHAbBtHcXH5HcpS16g0tf72L8wnnRxwMw9aO1Z_yjbBjs)
 
-### Map_attacks.py
+##### Map_attacks.py
 Obtenemos y guardamos las direcciones IPs que se encuentran en el repositorio externo. Para ello, eliminamos los saltos de línea y los posibles espacios en blanco que puedan existir:
 
 Obtención de la longitud, latitud y la región de las IPs. Los datos se guardarán en unas listas que se han declarado al inicio del script (latitude, longitude, region y city) 
 
 Creación del mapa e inclusión de puntos (círulos) que representan la geolocalización de los datos obtenidos:
 
-#### Compilación y ejecución
+##### Compilación y ejecución
 Llegados a este punto, ejecutaremos el programa mediante la secuencia de comandos python3 map_attacks.py. Seguidamente, como resultado del programa se obtendrá un fichero de texto con las IPs que se han leído (malicious_ip.txt) y el mapa con los puntos correspondientes (mymap.html):
 
 ### Creacion plugin
@@ -43,6 +43,6 @@ Seguidamente, comprobaremos el funcionamiento del plugin. Para ello, en la inter
 
 Si se activa, podremos observar que se ha añadido una funcionalidad extra a nuestro sitio web de administración de WordPress:
 
-### Verificación del funcionamiento del plugin
-Finalmente, podremos observar el correcto funcionamiento del plugin:
 
+### Verificación del funcionamiento del plugin
+![alt text](https://lh5.googleusercontent.com/KG_-un2df4PZqysWg64xA7zUZHz9QmLtxAbWOoD42aDZzRW5h16F2GdGiuFtRE7mBzts-7DyNezg9KEScBaG3N-RdrOew6nug8fMMyaiEQWXTnseg73uE3iYq7umqmum1ZrlUkDW)
