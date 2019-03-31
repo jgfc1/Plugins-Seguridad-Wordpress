@@ -40,5 +40,5 @@ A continuación, en la interfaz de administración de nuestro sitio web WordPres
 Si se activa, podremos observar que se ha añadido una funcionalidad extra a nuestro sitio web de administración de WordPress:
 ![alt text](https://lh6.googleusercontent.com/9D9UW0ZzBcp3IpLKoc4ABQLGayuK67X-hjZEZnyBm2B57ZaAUPnGNqoV3JK8oqTBoEt6wVLfatmAWvvl7KLP037o7c-qJsi0JORTXL8sZJSDt0TRgsBrlETu4qTFgbrFN7p1fflU)
 
-### Verificación del funcionamiento del plugin
+### Verificación del funcionamiento del plugin:
 ![alt text](https://lh5.googleusercontent.com/KG_-un2df4PZqysWg64xA7zUZHz9QmLtxAbWOoD42aDZzRW5h16F2GdGiuFtRE7mBzts-7DyNezg9KEScBaG3N-RdrOew6nug8fMMyaiEQWXTnseg73uE3iYq7umqmum1ZrlUkDW)
