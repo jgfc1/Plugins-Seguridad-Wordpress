@@ -32,7 +32,7 @@ Se creará un script en Python (por su versatilidad), que se encargará de obten
 > malicious_ip.txt
 
 ### Creación plugin en Wordpress:
-A continuación, procederemos a la creación del plugin codificando el script plugin.php. Por último, crearemos el fichero loadMap.php que invocará a  mapa.html generado con el script map_attacks.py. Seguidamente, comprobaremos el funcionamiento del plugin. Para ello, los ficheros han de estar en una carpeta dentro del directorio [nombre_sitio_WordPress]/wp-content/plugins. 
+A continuación, procederemos a la creación del plugin codificando el script plugin.php. Por último, crearemos el fichero loadMap.php que invocará a  mapa.html generado con el script map_attacks.py. Seguidamente, comprobaremos el funcionamiento del plugin. Para ello, los ficheros han de estar en una carpeta dentro del directorio [nombre_sitio_WordPress]/wp-content/plugins/Plugin Mapa Mundo. 
 
 A continuación, en la interfaz de administración de nuestro sitio web WordPress haremos click la opción Plugins → Plugins instalados. Observaremos que el nombre que habíamos asignado al plugin en el fichero plugin.php aparece en la vista (desactivado, por defecto):
 ![alt text](https://lh6.googleusercontent.com/x34kM7XHeV1rZ4-R2AvMud-H40pdcixAteMz3BzS7qAK2yflDdtYBN2lk6PVZQMMq61kMvAeQscLItD3tVLYijw1WwiQE-HrMju30gQeLNpkXXPXxRug9Lwp0UqoHUekxs8lq3SX)
