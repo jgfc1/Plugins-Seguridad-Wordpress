@@ -14,13 +14,13 @@ En primer lugar, se creará un script en Python (por su versatilidad), que se en
 
 > apt install python3-pip
 
-> apt install folium
+> pip3 install folium
 
-> apt install urlib
+> pip3 install urlib
 
-> apt install pandas
+> pip3 install pandas
 
-> apt install ipgeo2tools
+> pip3 install ipgeo2tools
 
 
 ##### Ejecución
